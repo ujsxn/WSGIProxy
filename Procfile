@@ -1,1 +1,1 @@
-web: uwsgi wsgiproxy.app
+web: gunicorn wsgiproxy.app --log-file -
