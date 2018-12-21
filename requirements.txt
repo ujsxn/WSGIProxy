@@ -4,3 +4,4 @@ MiniMock
 simplejson
 PasteDeploy
 WebOb
+gunicorn
